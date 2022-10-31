@@ -12,6 +12,8 @@ infinitesites_longTerm.nb - Mathematica code for simulations of an infinite site
 
 infinitesites_oneStep.nb - Mathematica code for simulations of an infinite sites model for 1-step adaptation
 
+data folder - contains output data
+
 ## License 
 
 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
